@@ -6,3 +6,4 @@ secret.txt
 secret2.txt
 .gitsecret/keys/random_seed
 !*.secret
+very_secret.txt
