@@ -4,3 +4,5 @@ private.key
 
 secret.txt
 secret2.txt
+.gitsecret/keys/random_seed
+!*.secret
