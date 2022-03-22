@@ -43,10 +43,6 @@ make import_key
 make decrypt
 ```
 
-```
-make decrypt
-```
-
 # FAQ
 
 ## gpg: encryption of 'secret.txt' failed: No public key
