@@ -64,7 +64,3 @@ https://edoceo.com/sys/gpg
 ```
 gpg -k
 ```
-
-## TODO
-
-* [ ] Убедиться что все файлы из encrypt_files.txt есть в .gitignore
