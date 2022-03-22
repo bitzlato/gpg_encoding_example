@@ -1,2 +1,6 @@
+private.key
+
+# Примеры файлов с секретами:
+
 secret.txt
 secret2.txt
